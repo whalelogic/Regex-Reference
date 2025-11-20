@@ -1,7 +1,7 @@
 # Python Regular Expressions (Regex) 
 
 
-<h4>❗ Regex is extremely helpful when you're tasked with manipulating data structures that contain numerous data types.</h4>
+<h4>❗ Regex is extremely helpful when you're tasked with manipulating string data.</h4>
 
 <h3> ⏲️ Short History of Regex </h3>
 <p>The concept of regular expressions began in the 1950s, when the American mathematician Stephen Cole Kleene formalized the concept of a regular language. 
